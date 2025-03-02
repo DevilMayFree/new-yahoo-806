@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+    <url>
+        <loc>https://hjnewsyahoo.tw/%E6%81%92%E5%81%A5%E6%8A%95%E8%B3%87%E6%94%9C%E6%89%8BLSEG%E7%AD%89%E6%A9%9F%E6%A7%8B%E6%89%93%E9%80%A0%E5%89%B5%E6%96%B0%E6%B0%B8%E7%BA%8C%E9%87%91%E8%9E%8D%E7%94%9F%E6%85%8B%E7%B3%BB%EF%BC%8C%E6%B7%B1%E8%80%95ESG%E6%95%B8%E6%93%9A%E3%80%81%E5%8D%80%E5%A1%8A%E9%8F%88%E5%AF%A9%E8%A8%88%E8%88%87AI%E9%A2%A8%E9%9A%AA%E6%A8%A1%E5%9E%8B.html</loc>
+        <priority>0.3</priority>
+        <lastmod>2025-03-02</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+
+    <url>
+        <loc>https://hjnewsyahoo.tw/</loc>
+        <priority>0.3</priority>
+        <lastmod>2025-03-02</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+
+</urlset>
